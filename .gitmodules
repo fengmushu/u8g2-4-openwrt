@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = src
+	url = git@github.com:fengmushu/u8g2-arm-linux.git
